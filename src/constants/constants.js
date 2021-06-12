@@ -1,0 +1,60 @@
+export const projects = [
+  {
+    title: 'Social Media Application',
+    description: "Using React, Node.js, Express & MongoDB. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      image: '/images/1.png',
+      tags: ['Mongo', 'Express', 'React', 'Node'],
+    source: 'https://github.com/SmashedTrash/Social-Media-Application',
+    visit: 'https://github.com/SmashedTrash/Social-Media-Application',
+    id: 0,
+  },
+  {
+    title: 'Chat Application',
+    description:"This Application is made using React and Chatengine.io API. The chat Application allows you to create a chat with your friends and families and allows you to send messages and media.",
+    image: '/images/2.png',
+    tags: ['React', 'JavaScript', 'Chatengine', 'Firebase'],
+    source: 'https://github.com/SmashedTrash/Chat-Application',
+    visit: 'https://chatterchatbox.netlify.app/',
+    id: 1,
+  },
+  {
+    title: 'Food Recipe App',
+    description: "This Recipe App is built using React and Edamam Recipe API, this app allows user to search for their favourite recipe dishes which they want to prepare or suggest to their friends and families.",
+      image: '/images/3.png',
+      tags: ['React', 'Javascript', 'Edamam'],
+    source: 'https://github.com/SmashedTrash/Food-Recipe-App',
+    visit: 'https://github.com/SmashedTrash/Food-Recipe-App',
+    id: 2,
+  },
+  {
+    title: 'Quiz App',
+    description: "This is a simple React App which has multiple choice question and answers for users and at the end of the test they can also view their scores",
+    image: '/images/4.png',
+    tags: ['React', 'Javascript'],
+    source: 'https://quizshows.netlify.app/',
+    visit: 'https://github.com/SmashedTrash/Quiz-App',
+    id: 3,
+  },
+  {
+    title: 'To-Do List',
+    description: "Todo list allows everyone to keep track of their daily routines it has update and delete functionalities to keep your record always perfect and organize",
+    image: '/images/5.png',
+    tags: ['Python', 'Django'],
+    source: 'https://github.com/SmashedTrash/TO-DO-App-Using-Django',
+    visit: 'https://github.com/SmashedTrash/TO-DO-App-Using-Django',
+    id: 4,
+  },
+  {
+    title: 'Figma Designs',
+    description: "This are some of the figma designs I created",
+    image: '/images/6.png',
+    tags: ['Figma'],
+    source: 'https://github.com/SmashedTrash/Figma-Designs',
+    visit: 'https://github.com/SmashedTrash/Figma-Designs',
+    id: 5,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2021, text: 'In February, Started the journey of Web-Development', },
+];
